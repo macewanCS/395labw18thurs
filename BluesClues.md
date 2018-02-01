@@ -1,5 +1,5 @@
 # Blues Clues Team Members
-Nolan
-Mike
-Matthew
-Brandon
+* Nolan
+* Mike
+* Matthew
+* Brandon
